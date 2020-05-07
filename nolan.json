@@ -1,0 +1,15 @@
+{"NolanMovies":[
+	{ "FilmName":"The Dark Knight","Genre": "Drama" ,"Actor":"Christian Bale", "Distributor":"Warner Bro. Pictures", "Year":"2008" },
+	{ "FilmName":"Inception", "Genre": "Sci-Fi" ,"Actor":"Leonardo DiCaprio", "Distributor":"Warner Bro. Pictures", "Year":"2010" },
+	{ "FilmName":"Interstella", "Genre": "Sci-Fi" ,"Actor":"Matthew McConaughey", "Distributor":"Legendary Pictures", "Year":"2014" },
+	{ "FilmName":"The Dark Knight Rises", "Genre": "Drama" ,"Actor":"Christian Bale", "Distributor":"Warner Bro. Pictures", "Year":"2012" },
+	{ "FilmName":"Dunkirk", "Genre": "History" ,"Actor":"Fionn Whitehead", "Distributor":"Warner Bro. Pictures", "Year":"2017" },
+	{ "FilmName":"Memento", "Genre": "Thriller" ,"Actor":"Guy Pearce", "Distributor":"Newmarket Films", "Year":"2000" },
+	{ "FilmName":"The Prestige", "Genre": "Sci-Fi" ,"Actor":"Hugh Jackman", "Distributor":"Touchstone Pictures", "Year":"2006" },
+	{ "FilmName":"Insomnia", "Genre": "Thriller" ,"Actor":"Al Pacino", "Distributor":"Warner Bro. Pictures", "Year":"2002" },
+	{ "FilmName":"Tenet",  "Genre": "Thriller" ,"Actor":"John David Washington", "Distributor":"Warner Bro. Pictures", "Year":"2020" },
+	{ "FilmName":"Quay",  "Genre": "Documentary" ,"Actor":"Stephen Quay", "Distributor":"Syncopy", "Year":"2015" },
+	{ "FilmName":"Batman Begins", "Genre": "Drama" ,"Actor":"Christian Bale", "Distributor":"Warner Bro. Pictures", "Year":"2005" },
+	{ "FilmName":"Man of Steel","Genre": "Drama" ,"Actor":"Henry Cavil", "Distributor":"DC Entertainment", "Year":"2013" }
+		
+]}
