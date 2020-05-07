@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+        Christopher Nolan Movie List
+</head>
+<body>
+
+    <table class="table table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Filmname</th>
+                <th scope="col">Genre</th>
+                <th scope="col">Actor</th>
+                <th scope="col">Distributor</th>
+                <th scope="col">Year</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for item in items %}
+
+        <tr>
+            <td scope="row"> {{ item.FilmName }} </td>
+            <td scope="row"> {{ item.Genre }} </td>
+            <td scope="row"> {{ item.Actor }} </td>
+            <td scope="row"> {{ item.Distributor }} </td>
+            <td scope="row"> {{ item.Year }} </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>
